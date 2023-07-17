@@ -1,1 +1,1 @@
-# PCS3734---LabRedes
+# PCS3734 Laboratório de Redes de Computadores
