@@ -56,4 +56,4 @@ function MyButton(props) {
 }
 ```
 
-O Text irá substituir o <h1>, <p1> etc do JavaScript. Já o View serve para criar containers ou "view" para outros componentes. Pensem como uma caixa que comporta outros componentes, tipo uma <div> com mais funcionalidades.
+O Text irá substituir o `<h1>`, `<p1>` etc do JavaScript. Já o View serve para criar containers ou "view" para outros componentes. Pensem como uma caixa que comporta outros componentes, tipo uma `<div>` com mais funcionalidades.
