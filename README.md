@@ -6,8 +6,11 @@
 - Documentação: https://docs.expo.dev/
 
 `npm install`
+
 `npx expo install react-dom react-native-web @expo/webpack-config`
+
 `npm install expo-font axios react-native-dotenv`
+
 `npx expo install expo-font@~11.1.1 react-native@0.71.8`
 
 Para testar a aplicação:
