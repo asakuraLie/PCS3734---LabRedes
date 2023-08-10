@@ -13,6 +13,12 @@
 
 `npx expo install expo-font@~11.1.1 react-native@0.71.8`
 
+`npm install @react-navigation/native`
+
+`npm install react-native-screens react-native-safe-area-context`
+
+`https://blog.logrocket.com/using-react-native-ble-manager-mobile-app/`
+
 Para testar a aplicação:
 
 - Baixe o aplicativo: Expo Go
