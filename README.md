@@ -6,8 +6,11 @@
 - Documentação: https://docs.expo.dev/
 
 `npm install`
+
 `npx expo install react-dom react-native-web @expo/webpack-config`
+
 `npm install expo-font axios react-native-dotenv`
+
 `npx expo install expo-font@~11.1.1 react-native@0.71.8`
 
 Para testar a aplicação:
@@ -53,4 +56,4 @@ function MyButton(props) {
 }
 ```
 
-O Text irá substituir o <h1>, <p1> etc do JavaScript. Já o View serve para criar containers ou "view" para outros componentes. Pensem como uma caixa que comporta outros componentes, tipo uma <div> com mais funcionalidades.
+O Text irá substituir o `<h1>`, `<p1>` etc do JavaScript. Já o View serve para criar containers ou "view" para outros componentes. Pensem como uma caixa que comporta outros componentes, tipo uma `<div>` com mais funcionalidades.
